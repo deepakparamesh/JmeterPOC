@@ -1,0 +1,8 @@
+version: v0.1
+testName: 500VuSampleReqRes
+testPlan: 500VuSampleReqRes.jmx
+configurationFiles:
+    - '*.csv'
+description: '500VuSampleReqRes Test Run'
+engineInstances: 1
+engineSize: M

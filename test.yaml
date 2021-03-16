@@ -1,0 +1,8 @@
+version: v0.1
+testName: test
+testPlan: test.jmx
+configurationFiles:
+    - '*.csv'
+description: 'test Test Run'
+engineInstances: 1
+engineSize: XL
