@@ -1,0 +1,8 @@
+version: v0.1
+testName: 50Vus_5mins
+testPlan: 50Vus_5mins.jmx
+configurationFiles:
+    - '*.csv'
+description: '50Vus_5mins Test Run'
+engineInstances: 1
+engineSize: M
